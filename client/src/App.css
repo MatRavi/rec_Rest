@@ -1,0 +1,39 @@
+.App {
+  text-align: center;
+}
+
+.cardaMenu{
+  background-image: url("./images/slide_3.jpg");
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: center;
+  
+  padding: 7em 0;
+  background-color: transparent;
+  background-size: cover;
+  background-attachment: fixed;
+  position: relative;
+  
+}
+/* 
+#footer{
+  width: 100%;
+  padding: 7em 0;
+  bottom: 0;
+  left: 0;
+  background: rgba(0, 0, 0, 0.9);
+  color: rgba(255, 255, 255, 0.5);
+  position: fixed;
+}
+
+@media screen and (max-width: 768px) {
+  #footer {
+    padding: 5em 0;
+  }
+}
+@media screen and (max-width: 480px) {
+  #footer {
+    height: inherit;
+    position: relative;
+  }
+} */

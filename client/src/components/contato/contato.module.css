@@ -1,0 +1,12 @@
+.contat{
+    background-color: black;
+    color: #fff;
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    z-index: inherit;
+    padding: 10px;
+}
+h4{
+    color:white;
+}
